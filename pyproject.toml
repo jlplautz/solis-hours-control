@@ -5,7 +5,7 @@ description = "This project is going to control the worked hours for different d
 authors = ["Jorge Luiz Plautz <jorge.plautz@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "solis_hours_control"}]
+# packages = [{include = "solis_hours_control"}]
 
 [tool.poetry.dependencies]
 python = "^3.12"
